@@ -1,2 +1,2 @@
 # programming-channel
-Prograamin Channel is a youtube channel to learn programming games using python, web sites using PHP or Python, WordPRess plugins, etc.
+Programing Channel is a youtube channel to learn programming. We are goingto develop games using python and pygame, web sites using PHP or Python and Flask, WordPress plugins using PHP, etc...
