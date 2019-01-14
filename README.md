@@ -1,2 +1,3 @@
-# programming-channel
+# Programming Channel
+
 Programming Channel is a youtube channel to learn programming. We are goingto develop games using python and pygame, web sites using PHP or Python and Flask, WordPress plugins using PHP, etc...
